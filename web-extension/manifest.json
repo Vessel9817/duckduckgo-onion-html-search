@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "DuckDuckGo Onion HTML Search",
     "description": "Adds DuckDuckGo HTML as a search engine for a torified non-JavaScript experience",
     "version": "1.0",
@@ -17,7 +17,7 @@
             "search_url": "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/html",
             "search_url_post_params": "q={searchTerms}",
             "keyword": "ddgonion",
-            "favicon_url": "https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/favicon.ico",
+            "favicon_url": "./icons/192.png",
             "is_default": true,
             "encoding": "UTF-8"
         }

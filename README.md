@@ -11,4 +11,4 @@ See also:
 
 Available for:
 
-- [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/ddg-html-search-provider/)
+- Tor Browser
