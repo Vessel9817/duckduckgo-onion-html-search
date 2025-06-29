@@ -2,7 +2,13 @@
     "manifest_version": 3,
     "name": "DuckDuckGo Onion HTML Search",
     "description": "Adds DuckDuckGo HTML as a search engine for a torified non-JavaScript experience",
-    "version": "1.0",
+    "version": "1.0.0",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{8de311ae-9fd2-4204-9b6f-d723df48009e}",
+            "strict_min_version": "65.0"
+        }
+    },
     "icons": {
         "36": "icons/36.png",
         "48": "icons/48.png",
