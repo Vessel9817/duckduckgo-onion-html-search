@@ -9,23 +9,17 @@ and uses POST requests instead of GET requests for added privacy and security.
 
 ### Tor Browser (Desktop)
 
-As this extension has yet to be verified by Firefox, it can currently only be
-added as a temporary add-on. This means that it will need to be re-added on
-every restart.
+**From release**:
 
-- Add the contents of [`web-extension`](./web-extension) to a new ZIP file
-- Go to `about:debugging`
-- Click `This Tor Browser`
-- Click `Load Temporary Add-on...`
-- Select the ZIP file
+Install the extension from the [Firefox Add-ons page][download]
 
-<!-- Only applies to a verified extension: 
+**From source**:
+
 - Add the contents of [`web-extension`](./web-extension) to a ZIP file
 - Go to `about:addons`
 - Click the settings icon
 - Click `Install Add-on from File...`
 - Select the ZIP file
--->
 
 ### Tor Browser (Android)
 
@@ -51,5 +45,7 @@ instead of POST requests.
 
 - [duckduckgo-html-post-search](https://github.com/KiaraGrouwstra/duckduckgo-html-post-search)
 - [duckduckgo-lite-search](https://github.com/andis-sprinkis/duckduckgo-lite-search)
+
+[download]: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-onion-html-search/
 
 [android-support]: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides#browser_compatibility
