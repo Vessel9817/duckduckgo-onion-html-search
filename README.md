@@ -51,5 +51,6 @@ instead of POST requests.
 
 - [duckduckgo-html-post-search](https://github.com/KiaraGrouwstra/duckduckgo-html-post-search)
 - [duckduckgo-lite-search](https://github.com/andis-sprinkis/duckduckgo-lite-search)
+- [firefox-duckduckgo-onion-extension](https://github.com/zompimalakae/firefox-duckduckgo-onion-extension)
 
 [android-support]: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides#browser_compatibility
