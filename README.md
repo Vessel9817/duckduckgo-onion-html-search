@@ -12,6 +12,7 @@ and uses POST requests instead of GET requests for added privacy and security.
 **From release**:
 
 Install the extension from the [Firefox Add-ons page][download]
+or from [GitHub releases][releases]
 
 **From source**:
 
@@ -43,10 +44,13 @@ instead of POST requests.
 
 ## See also
 
-- [duckduckgo-html-post-search](https://github.com/KiaraGrouwstra/duckduckgo-html-post-search)
-- [duckduckgo-lite-search](https://github.com/andis-sprinkis/duckduckgo-lite-search)
-- [firefox-duckduckgo-onion-extension](https://github.com/zompimalakae/firefox-duckduckgo-onion-extension)
+- [duckduckgo-html-post-search][duckduckgo-html-post-search]
+- [duckduckgo-lite-search][duckduckgo-lite-search]
+- [firefox-duckduckgo-onion-extension][firefox-duckduckgo-onion-extension]
 
 [download]: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-onion-html-search/
-
+[releases]: https://github.com/Vessel9817/duckduckgo-onion-html-search/releases
 [android-support]: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides#browser_compatibility
+[duckduckgo-html-post-search]: https://github.com/KiaraGrouwstra/duckduckgo-html-post-search
+[duckduckgo-lite-search]: https://github.com/andis-sprinkis/duckduckgo-lite-search
+[firefox-duckduckgo-onion-extension]: https://github.com/zompimalakae/firefox-duckduckgo-onion-extension
